@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Yahya Hassanzadeh"
   avatar           : "YahyaHassanzadeh.jpg"
-  
-  : "Your biography for the left-hand sidebar"
+  bio              : "Senior Distributed Systems Engineer"
   location         : "Vancouver Canada"
   employer         :  DapperLabs
   pubmed           : 
