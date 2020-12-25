@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yahya Hassanzadeh"
+title                    : "Dr. Yahya Hassanzadeh"
 title_separator          : "-"
-name                     : &name "Yahya Hassanzadeh"
+name                     : &name " Dr. Yahya Hassanzadeh"
 description              : &description "personal description"
 url                      : https://yhassanzadeh13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Yahya Hassanzadeh"
   avatar           : "YahyaHassanzadeh.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  
+  : "Your biography for the left-hand sidebar"
   location         : "Vancouver Canada"
   employer         :  DapperLabs
   pubmed           : 
