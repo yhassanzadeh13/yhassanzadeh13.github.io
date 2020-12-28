@@ -3,7 +3,7 @@ title: "Decentralized Utility- and Locality-Aware Replication for Heterogeneous 
 collection: publications
 permalink: /publication/2019-02-Pyramid
 excerpt: ''
-date: 2020-12-16
+date: 2019-12-16
 venue: 'IEEE Transactions on Parallel and Distributed Systems '
 paperurl: 'https://arxiv.org/pdf/1907.11997.pdf'
 ---
