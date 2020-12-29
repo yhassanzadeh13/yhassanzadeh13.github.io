@@ -1,5 +1,5 @@
 ---
-title: "LightChain: Scalable DHT-based Blockchain (Pitch Presentation)"
+title: "LightChain: Scalable DHT-based Blockchain (Introduction)"
 collection: talks
 type: "Pitch Presentation"
 permalink: /talks/2020-06-28-LightChain-Intro
