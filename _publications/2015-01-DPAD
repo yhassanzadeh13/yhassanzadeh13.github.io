@@ -1,0 +1,14 @@
+---
+title: "Locality aware skip graph"
+collection: publications
+permalink: /publication/2015-01-DPAD
+excerpt: ''
+date: 2015-06-29
+venue: '2015 IEEE 35th International Conference on Distributed Computing Systems Workshops'
+paperurl: 'https://crypto.ku.edu.tr/wp-content/uploads/2019/05/skipgraph-locality.pdf'
+---
+Skip Graph, as a distributed hash table (DHT) based data structure, plays a key role in peer-to-peer (P2P) storage systems, distributed online social networks, search engines, and several DHT-based applications. In the Skip Graph structure, node identifiers define the connectivity. However, traditional identifier assignment algorithms do not consider the Skip Graph nodes' locations. Neglecting the nodes' localities in the identifier assignments results in high end-to-end latency in the overlay network which negatively affects the overall system performance. In this paper, we propose a method to assign the Skip Graph node identifiers considering their location information and make the nodes locality aware. In the proposed dynamic and fully decentralized algorithm, named DPAD, instead of assigning node identifiers uniformly at random, locality aware identifiers will be assigned to the nodes at their arrival to the system based on their distances to some super-nodes named landmarks. We define locality awareness as the similarity of the distances between the nodes in the overlay and underlay networks. Performance analysis results show that DPAD algorithm provides about 82% improvement in the locality awareness of node identifiers and about 40% improvement in the search query end-to-end latency, compared to the best known static and dynamic algorithms.
+
+[Download paper here](https://crypto.ku.edu.tr/wp-content/uploads/2019/05/skipgraph-locality.pdf)
+
+Recommended citation: Hassanzadeh-Nazarabadi, Yahya, Alptekin Küpçü, and Öznur Özkasap. "Locality aware skip graph." 2015 IEEE 35th International Conference on Distributed Computing Systems Workshops. IEEE, 2015.
