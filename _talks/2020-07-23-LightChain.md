@@ -8,4 +8,4 @@ date: 2012-03-01
 location: "Istanbul, Turkey"
 ---
 
-[Talk Video Available Here](https://www.youtube.com/watch?v=JROq4Qit-xc)
+[Video Available Here](https://www.youtube.com/watch?v=JROq4Qit-xc)
