@@ -1,5 +1,5 @@
 ---
-title: "Distributed Computing Systems"
+title: "Distributed Computing Systems (Assistant)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2016-01-01-Distributed
