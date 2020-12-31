@@ -8,6 +8,6 @@ date: 2015-01-01
 location: "Istanbul, Turkey"
 ---
 
-Spring 2016
+Spring 2015
 
 Instructors: Assoc. Prof. Alptekin Küpçü
