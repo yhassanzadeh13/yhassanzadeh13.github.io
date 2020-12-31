@@ -2,9 +2,9 @@
 title: "Data Structure and Algorithms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2016-01-01-DataStructure
+permalink: /teaching/2015-01-01-Data-Structure
 venue: "Koç University"
-date: 2016-01-01
+date: 2015-01-01
 location: "Istanbul, Turkey"
 ---
 
