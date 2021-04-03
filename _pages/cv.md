@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* 2019-present: Senior Distributed Systems Engineer at DapperLabs, Vancouver, Canada
-  * Developing Flow Blockchain (mainly responsible for Verification and Networking) 
+* **2019-present: Senior Distributed Systems Engineer at DapperLabs, Vancouver, Canada**
+  * Developing Flow Blockchain, domains of Verification and Networking
   * Co-authored Flow Blockchain White Paper
 
-* 2014-2019: Teaching and Research Assistant at Koç University, Istanbul, Turkey
+* **2014-2019: Teaching and Research Assistant at Koç University, Istanbul, Turkey**
   * Researched on the domains of P2P systems, Cloud Storage, Blockchain, Distributed Protocols, Cryptography, Privacy, and Security
   * Architected and developed SEALA, a large scale highly-available, low-latency, secure, and fault-tolerant P2P Cloud Storage Platform-as-a-Service
   * Architected and developed LightChain, a DHT-based blockchain for resource constraint environments (patent pledged)
@@ -29,17 +29,15 @@ Work experience
   * Co-advised interns on Koç University Summer Reseach Progream (KUSRP).
   * Teaching assistant for Distributed Computing Systems, Computer Security, Computer Networks, Introduction to Programming (Java), Data Structures and Algorithms, and Operating Systems courses. 
 
-* Fall 2012-2013: Teaching Assistant at Ferdowsi University, Mashhad, Iran
+* **Fall 2012-2013: Teaching Assistant at Ferdowsi University, Mashhad, Iran**
   * Teaching assistant for Digital Integrated Circuits and Electronic Circuits courses. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Domains: Distributed Systems, Cryptography, Privacy, Machine Learning
+* Programming: Golang, Java, Python, C++
+* Cloud: GCP, AWS
+* Tooling: Grafana, Prometheus, Docker, Kubernetes, Git 
 
 Publications
 ======
@@ -58,7 +56,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
