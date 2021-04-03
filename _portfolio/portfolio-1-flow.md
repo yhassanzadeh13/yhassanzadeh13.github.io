@@ -6,4 +6,4 @@ collection: portfolio
 
 I am a distributed systems engineer at Flow blockchain developing the software architecture of its Verification node as well as the Networking layer.  
 Our website: https://www.onflow.org/
-Our white paper: https://www.onflow.org/
+Our white paper: https://arxiv.org/pdf/2002.07403.pdf
