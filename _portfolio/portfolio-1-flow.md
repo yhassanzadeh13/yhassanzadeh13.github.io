@@ -1,5 +1,5 @@
 ---
-title: "Flow Blockchain (team member)"
+title: "Flow Blockchain (Team Member)"
 excerpt: "Flow is a fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them."
 collection: portfolio
 ---
